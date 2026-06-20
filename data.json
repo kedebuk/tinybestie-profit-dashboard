@@ -417,8 +417,8 @@
       "filament_grams": 800,
       "filament_kg": 0.8,
       "filament_cost": 126400,
-      "ads": 391642,
-      "profit": 797258,
+      "ads": 391648,
+      "profit": 797252,
       "n12": 2,
       "c12": 2,
       "f12": 0,
@@ -2424,8 +2424,8 @@
     "hpp": 4019737,
     "filament_grams": 12060,
     "filament_cost": 1905480,
-    "ads": 2554180,
-    "profit": 8865083,
+    "ads": 2554186,
+    "profit": 8865077,
     "n12": 15,
     "c12": 8,
     "f12": 3,
@@ -2463,5 +2463,5 @@
     }
   },
   "rules": "statue painter 0; filament normal 100g, couple 150g, family 180g @ Rp158k/kg",
-  "dateRange": "05/06–20/06"
+  "dateRange": "05/06–21/06"
 }
