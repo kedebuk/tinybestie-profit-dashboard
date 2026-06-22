@@ -505,10 +505,10 @@
       "filament_grams": 1000,
       "filament_kg": 1.0,
       "filament_cost": 158000,
-      "ads": 259608,
-      "cs_leads": 54,
-      "cpl": 4808,
-      "profit": 726671,
+      "ads": 262751,
+      "cs_leads": 56,
+      "cpl": 4692,
+      "profit": 723528,
       "n12": 0,
       "c12": 2,
       "f12": 0,
@@ -2965,9 +2965,9 @@
     "hpp": 4835581,
     "filament_grams": 14460,
     "filament_cost": 2284680,
-    "ads": 3186631,
-    "cs_leads": 804,
-    "profit": 10497788,
+    "ads": 3189774,
+    "cs_leads": 806,
+    "profit": 10494645,
     "n12": 18,
     "c12": 10,
     "f12": 3,
@@ -2981,7 +2981,7 @@
     "sc15": 16,
     "sf15": 3,
     "filament_kg": 14.46,
-    "cpl": 3963
+    "cpl": 3958
   },
   "costs": {
     "n12": 38820,
@@ -3005,7 +3005,7 @@
       "f": 180
     }
   },
-  "rules": "statue painter 0; filament normal 100g, couple 150g, family 180g @ Rp158k/kg; akrilik jual Rp90rb, HPP Rp70rb; CS Lite Lead = Meta lead action",
+  "rules": "statue painter 0/no ongkos cat; filament normal 100g, couple 150g, family 180g @ Rp158k/kg; box Rp12.500 for first 200 patung then Rp7.500; akrilik jual Rp90rb, HPP Rp70rb; CS Lite Lead = Meta lead action",
   "dateRange": "05/06–22/06",
   "monthly": [
     {
@@ -3019,11 +3019,11 @@
       "hpp": 4835581,
       "filament_grams": 14460,
       "filament_cost": 2284680,
-      "ads": 3186631,
-      "cs_leads": 804,
-      "profit": 10497788,
+      "ads": 3189774,
+      "cs_leads": 806,
+      "profit": 10494645,
       "filament_kg": 14.46,
-      "cpl": 3963
+      "cpl": 3958
     }
   ],
   "acrylic": {
