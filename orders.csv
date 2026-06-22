@@ -77,3 +77,4 @@ id,date,no,jenis,ukuran,is_statue,omset,ongkir,total,hpp,filament_grams,filament
 76,2026-06-22,01,Couple,15cm,True,199000,25000,224000,74481,300,0.3,47400,2,0,0,0,0,0,0,0,0,0,0,2,0,statue: painter 0
 77,2026-06-22,,single,15cm,True,170000,25000,195000,29340,100,0.1,15800,1,0,0,0,0,0,0,0,0,0,1,0,0,statue: painter 0
 78,2026-06-22,03,single,12cm,True,174000,25000,199000,28820,100,0.1,15800,1,0,0,0,0,0,0,1,0,0,0,0,0,statue: painter 0
+79,2026-06-22,05,family,12cm,True,314000,30000,344000,28820,100,0.1,15800,1,0,0,0,0,0,0,1,0,0,0,0,0,harga tinggi tapi jenis single; cek manual; statue: painter 0
