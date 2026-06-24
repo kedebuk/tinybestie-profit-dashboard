@@ -91,3 +91,4 @@ id,date,no,jenis,ukuran,is_statue,omset,ongkir,total,hpp,filament_grams,filament
 90,2026-06-23,06,2 Single,15cm,False,408000,25000,433000,39340,100,0.1,15800,1,0,0,0,1,0,0,0,0,0,0,0,0,harga tinggi tapi jenis single; cek manual
 91,2026-06-23,07,Single,12cm,False,174000,25000,199000,38820,100,0.1,15800,1,1,0,0,0,0,0,0,0,0,0,0,0,
 92,2026-06-24,01,family 3 figur,12cm,False,314000,0,314000,38820,100,0.1,15800,1,1,0,0,0,0,0,0,0,0,0,0,0,harga tinggi tapi jenis single; cek manual
+93,2026-06-24,01,Couple,12cm,False,314000,25000,339000,103440,300,0.3,47400,2,0,2,0,0,0,0,0,0,0,0,0,0,
