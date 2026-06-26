@@ -621,10 +621,10 @@
       "filament_grams": 700,
       "filament_kg": 0.7,
       "filament_cost": 110600,
-      "ads": 872356,
-      "cs_leads": 149,
-      "cpl": 5855,
-      "profit": 167344,
+      "ads": 872749,
+      "cs_leads": 150,
+      "cpl": 5818,
+      "profit": 166951,
       "n12": 3,
       "c12": 0,
       "f12": 0,
@@ -4042,9 +4042,9 @@
     "hpp": 6603869,
     "filament_grams": 19760,
     "filament_cost": 3122080,
-    "ads": 5572386,
-    "cs_leads": 1320,
-    "profit": 14253745,
+    "ads": 5572779,
+    "cs_leads": 1321,
+    "profit": 14253352,
     "n12": 26,
     "c12": 16,
     "f12": 3,
@@ -4058,7 +4058,7 @@
     "sc15": 26,
     "sf15": 3,
     "filament_kg": 19.76,
-    "cpl": 4222
+    "cpl": 4219
   },
   "costs": {
     "n12": 38820,
@@ -4096,11 +4096,11 @@
       "hpp": 6603869,
       "filament_grams": 19760,
       "filament_cost": 3122080,
-      "ads": 5572386,
-      "cs_leads": 1320,
-      "profit": 14253745,
+      "ads": 5572779,
+      "cs_leads": 1321,
+      "profit": 14253352,
       "filament_kg": 19.76,
-      "cpl": 4222
+      "cpl": 4219
     }
   ],
   "acrylic": {
