@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "generated_at": "2026-06-28T23:41:39.200775+07:00",
+  "generated_at": "2026-06-28T23:47:39.780836+07:00",
   "privacy": "No raw phone numbers. CS Lite orders are matched locally; only masked phone + order id are published.",
   "counts": {
     "closing_records_with_phone": 65,
     "closing_unique_phones": 64,
-    "cs_lite_orders_read": 1722,
+    "cs_lite_orders_read": 1697,
     "unpaid_candidate_phones": 1518,
     "safe_candidates": 5,
     "ambiguous": 0,
