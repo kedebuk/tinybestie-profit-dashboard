@@ -1,0 +1,58 @@
+{
+  "ok": true,
+  "generated_at": "2026-06-28T20:57:32.368754+07:00",
+  "privacy": "No raw phone numbers. CS Lite orders are matched locally; only masked phone + order id are published.",
+  "counts": {
+    "closing_records_with_phone": 63,
+    "closing_unique_phones": 62,
+    "cs_lite_orders_read": 1689,
+    "unpaid_candidate_phones": 1510,
+    "safe_candidates": 4,
+    "ambiguous": 0,
+    "auto_paid_history": 0
+  },
+  "candidates": [
+    {
+      "order_uuid": "45339a69-fbbb-430d-b609-89a2cf55631d",
+      "merchant_order_id": "TNB-MQKLKSMO-45339A69",
+      "phone_mask": "6281****7890",
+      "paid_amount": 199000,
+      "order_total_current": 159000,
+      "closing_date": "2026-06-21",
+      "closing_kind": "bestie",
+      "closing_sig": "f1701ff13ec5"
+    },
+    {
+      "order_uuid": "bf5a389c-59e1-4b5b-9c1e-c1202ef1a25f",
+      "merchant_order_id": "TNB-MQOMU9I8-BF5A389C",
+      "phone_mask": "6281****6344",
+      "paid_amount": 224000,
+      "order_total_current": 159000,
+      "closing_date": "2026-06-22",
+      "closing_kind": "statue",
+      "closing_sig": "e9c1aef7ebdc"
+    },
+    {
+      "order_uuid": "5285e515-019a-479b-91e3-f3977c205201",
+      "merchant_order_id": "TNB-MQIVHR4Y-5285E515",
+      "phone_mask": "6281****8888",
+      "paid_amount": 872000,
+      "order_total_current": 159000,
+      "closing_date": "2026-06-23",
+      "closing_kind": "bestie",
+      "closing_sig": "6df128417cec"
+    },
+    {
+      "order_uuid": "9478808a-2877-4abc-91c3-bd933159652d",
+      "merchant_order_id": "TNB-MQX81TZV-9478808A",
+      "phone_mask": "6281****1222",
+      "paid_amount": 459000,
+      "order_total_current": 159000,
+      "closing_date": "2026-06-28",
+      "closing_kind": "bestie",
+      "closing_sig": "e340283f1a49"
+    }
+  ],
+  "ambiguous": [],
+  "history": []
+}
