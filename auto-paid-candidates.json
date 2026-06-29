@@ -1,7 +1,7 @@
 {
   "ok": false,
-  "generated_at": "2026-06-30T05:46:45.064716+07:00",
-  "error": "fetch_cs_lite_failed:2026-06-15:<HTTPError 401: 'Unauthorized'>",
+  "generated_at": "2026-06-30T05:52:46.527395+07:00",
+  "error": "fetch_cs_lite_failed:2026-06-18:<HTTPError 401: 'Unauthorized'>",
   "candidates": [],
   "ambiguous": [],
   "counts": {
