@@ -1,14 +1,14 @@
 {
   "ok": true,
-  "generated_at": "2026-06-29T11:19:13.863706+07:00",
+  "generated_at": "2026-06-29T11:25:12.318068+07:00",
   "privacy": "No raw phone numbers. CS Lite orders are matched locally; only masked phone + order id are published.",
   "counts": {
-    "closing_records_with_phone": 70,
-    "closing_unique_phones": 69,
-    "cs_lite_orders_read": 1736,
-    "unpaid_candidate_phones": 1556,
+    "closing_records_with_phone": 72,
+    "closing_unique_phones": 71,
+    "cs_lite_orders_read": 1737,
+    "unpaid_candidate_phones": 1557,
     "safe_candidates": 10,
-    "ambiguous": 0,
+    "ambiguous": 1,
     "auto_paid_history": 0
   },
   "candidates": [
@@ -113,6 +113,13 @@
       "closing_sig": "087c3879656e"
     }
   ],
-  "ambiguous": [],
+  "ambiguous": [
+    {
+      "phone_mask": "6281****7635",
+      "closing_count": 1,
+      "order_count": 2,
+      "reason": "duplicate_phone_or_order"
+    }
+  ],
   "history": []
 }
