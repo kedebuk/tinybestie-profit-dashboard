@@ -1092,10 +1092,10 @@
       "filament_grams": 1100,
       "filament_kg": 1.1,
       "filament_cost": 173800,
-      "ads": 362331,
-      "cs_leads": 28,
-      "cpl": 12940,
-      "profit": 537107,
+      "ads": 369387,
+      "cs_leads": 30,
+      "cpl": 12313,
+      "profit": 530051,
       "chibi_orders": 4,
       "chibi_patung": 6,
       "chibi_omset": 996000,
@@ -5304,9 +5304,9 @@
     "hpp": 8086636,
     "filament_grams": 24460,
     "filament_cost": 3864680,
-    "ads": 7642928,
-    "cs_leads": 1624,
-    "profit": 17224436,
+    "ads": 7649984,
+    "cs_leads": 1626,
+    "profit": 17217380,
     "chibi_orders": 97,
     "chibi_patung": 133,
     "chibi_omset": 23923000,
@@ -5336,7 +5336,7 @@
     "sc15": 30,
     "sf15": 3,
     "filament_kg": 24.46,
-    "cpl": 4706
+    "cpl": 4705
   },
   "costs": {
     "n12": 38820,
@@ -5374,9 +5374,9 @@
       "hpp": 8086636,
       "filament_grams": 24460,
       "filament_cost": 3864680,
-      "ads": 7642928,
-      "cs_leads": 1624,
-      "profit": 17224436,
+      "ads": 7649984,
+      "cs_leads": 1626,
+      "profit": 17217380,
       "chibi_orders": 97,
       "chibi_patung": 133,
       "chibi_omset": 23923000,
@@ -5394,7 +5394,7 @@
       "statue_filament_cost": 1286120,
       "statue_gross_profit": 6927764,
       "filament_kg": 24.46,
-      "cpl": 4706
+      "cpl": 4705
     }
   ],
   "acrylic": {
