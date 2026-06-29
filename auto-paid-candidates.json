@@ -1,10 +1,289 @@
 {
-  "ok": false,
-  "generated_at": "2026-06-29T23:26:56.307599+07:00",
-  "error": "fetch_cs_lite_failed:2026-06-29:TimeoutError('The read operation timed out')",
-  "candidates": [],
-  "ambiguous": [],
+  "ok": true,
+  "generated_at": "2026-06-29T23:32:56.881185+07:00",
+  "privacy": "Safe candidates stay masked. Ambiguous rows include full names/phones so CS can confirm the exact order in CS Lite.",
   "counts": {
-    "fetch_errors": 1
-  }
+    "closing_records_with_phone": 77,
+    "closing_unique_phones": 76,
+    "cs_lite_orders_read": 1812,
+    "unpaid_candidate_phones": 1627,
+    "safe_candidates": 12,
+    "ambiguous": 3,
+    "auto_paid_history": 0
+  },
+  "candidates": [
+    {
+      "order_uuid": "bf5a389c-59e1-4b5b-9c1e-c1202ef1a25f",
+      "merchant_order_id": "TNB-MQOMU9I8-BF5A389C",
+      "phone_mask": "6281****6344",
+      "paid_amount": 224000,
+      "order_total_current": 159000,
+      "closing_date": "2026-06-22",
+      "closing_kind": "statue",
+      "closing_sig": "e9c1aef7ebdc"
+    },
+    {
+      "order_uuid": "9478808a-2877-4abc-91c3-bd933159652d",
+      "merchant_order_id": "TNB-MQX81TZV-9478808A",
+      "phone_mask": "6281****1222",
+      "paid_amount": 459000,
+      "order_total_current": 159000,
+      "closing_date": "2026-06-28",
+      "closing_kind": "bestie",
+      "closing_sig": "e340283f1a49"
+    },
+    {
+      "order_uuid": "6266b7e7-af0e-4fd7-bbd6-fd177a7b596d",
+      "merchant_order_id": "TNB-MQXGLH02-6266B7E7",
+      "phone_mask": "6144****4589",
+      "paid_amount": 543000,
+      "order_total_current": 159000,
+      "closing_date": "2026-06-28",
+      "closing_kind": "bestie",
+      "closing_sig": "e20aa068cc75"
+    },
+    {
+      "order_uuid": "05b6d53c-75f4-4036-9fa1-a35892dc4665",
+      "merchant_order_id": "TNB-MQT7VMUN-05B6D53C",
+      "phone_mask": "6289****6655",
+      "paid_amount": 329000,
+      "order_total_current": 159000,
+      "closing_date": "2026-06-29",
+      "closing_kind": "bestie",
+      "closing_sig": "6a7600616f58"
+    },
+    {
+      "order_uuid": "933692ec-a14f-460e-a3e4-55a0f00dd59a",
+      "merchant_order_id": "TNB-MQUSF7U9-933692EC",
+      "phone_mask": "6289****1738",
+      "paid_amount": 201000,
+      "order_total_current": 159000,
+      "closing_date": "2026-06-29",
+      "closing_kind": "bestie",
+      "closing_sig": "8ecd88f078d4"
+    },
+    {
+      "order_uuid": "42065ef3-6a34-4664-87fb-9c6d71fd26bb",
+      "merchant_order_id": "TNB-MQVP34KJ-42065EF3",
+      "phone_mask": "6282****2889",
+      "paid_amount": 289000,
+      "order_total_current": 159000,
+      "closing_date": "2026-06-29",
+      "closing_kind": "statue",
+      "closing_sig": "8b0dcb074ee5"
+    },
+    {
+      "order_uuid": "3e0fac2b-0291-4319-a641-b69506d9be73",
+      "merchant_order_id": "TNB-MQX14EEP-3E0FAC2B",
+      "phone_mask": "6285****2545",
+      "paid_amount": 204000,
+      "order_total_current": 159000,
+      "closing_date": "2026-06-29",
+      "closing_kind": "bestie",
+      "closing_sig": "ff4cb85e1793"
+    },
+    {
+      "order_uuid": "b641e0aa-0a5f-4a97-9f9f-829e4cd6382a",
+      "merchant_order_id": "TNB-MQYBU8DM-B641E0AA",
+      "phone_mask": "6285****2030",
+      "paid_amount": 344000,
+      "order_total_current": 159000,
+      "closing_date": "2026-06-29",
+      "closing_kind": "bestie",
+      "closing_sig": "2309b921367c"
+    },
+    {
+      "order_uuid": "5ca841b6-38e3-4516-87ce-b99d2bb18989",
+      "merchant_order_id": "TNB-MQYHE4E9-5CA841B6",
+      "phone_mask": "6285****6289",
+      "paid_amount": 274000,
+      "order_total_current": 159000,
+      "closing_date": "2026-06-29",
+      "closing_kind": "bestie",
+      "closing_sig": "55228cf6286e"
+    },
+    {
+      "order_uuid": "5ec63a25-2c73-43e2-8f47-c94f4748133a",
+      "merchant_order_id": "TNB-MQYL3MAA-5EC63A25",
+      "phone_mask": "6285****5551",
+      "paid_amount": 409000,
+      "order_total_current": 159000,
+      "closing_date": "2026-06-29",
+      "closing_kind": "bestie",
+      "closing_sig": "407ba6ec314c"
+    },
+    {
+      "order_uuid": "439d8912-863b-4bf3-8f7d-280650fa17b1",
+      "merchant_order_id": "TNB-MQYM9NZG-439D8912",
+      "phone_mask": "6282****7669",
+      "paid_amount": 244000,
+      "order_total_current": 159000,
+      "closing_date": "2026-06-29",
+      "closing_kind": "bestie",
+      "closing_sig": "cb865baf3db5"
+    },
+    {
+      "order_uuid": "4e5f07a7-87e5-4b79-bae9-5cf4bf2e5a73",
+      "merchant_order_id": "TNB-MQYN5I9E-4E5F07A7",
+      "phone_mask": "6281****1414",
+      "paid_amount": 229000,
+      "order_total_current": 159000,
+      "closing_date": "2026-06-29",
+      "closing_kind": "bestie",
+      "closing_sig": "087c3879656e"
+    }
+  ],
+  "ambiguous": [
+    {
+      "phone_mask": "6281****7890",
+      "phone": "6281232067890",
+      "closing_count": 1,
+      "order_count": 2,
+      "unpaid_order_count": 1,
+      "paid_order_count": 1,
+      "reason": "duplicate_phone_or_order",
+      "closings": [
+        {
+          "customer_name": "Widyawati",
+          "customer_phone": "6281232067890",
+          "phone_mask": "6281****7890",
+          "paid_amount": 199000,
+          "closing_date": "2026-06-21",
+          "closing_kind": "bestie",
+          "closing_sig": "f1701ff13ec5"
+        }
+      ],
+      "orders": [
+        {
+          "order_uuid": "45339a69-fbbb-430d-b609-89a2cf55631d",
+          "merchant_order_id": "TNB-MQKLKSMO-45339A69",
+          "customer_name": "Widya",
+          "customer_phone": "6281232067890",
+          "phone_mask": "6281****7890",
+          "total_amount": 159000,
+          "payment_status": "unpaid",
+          "meta_purchase_status": "",
+          "product_slug": "tinybestie",
+          "product_name": "Tiny Bestie — Chibi Custom Tiny Bestie",
+          "created_at": "2026-06-19T07:18:36.554Z",
+          "updated_at": "2026-06-29T06:16:42.641Z"
+        },
+        {
+          "order_uuid": "9db36847-e50b-43cf-8094-a181e928a3e1",
+          "merchant_order_id": "TNB-MQNF8BVB-9DB36847",
+          "customer_name": "WIDYA",
+          "customer_phone": "6281232067890",
+          "phone_mask": "6281****7890",
+          "total_amount": 174000,
+          "payment_status": "paid",
+          "meta_purchase_status": "",
+          "product_slug": "tinybestie",
+          "product_name": "Tiny Bestie — Chibi Custom Tiny Bestie",
+          "created_at": "2026-06-21T06:44:15.905Z",
+          "updated_at": "2026-06-21T11:46:43.567Z"
+        }
+      ]
+    },
+    {
+      "phone_mask": "6281****8888",
+      "phone": "6281214148888",
+      "closing_count": 1,
+      "order_count": 2,
+      "unpaid_order_count": 1,
+      "paid_order_count": 1,
+      "reason": "duplicate_phone_or_order",
+      "closings": [
+        {
+          "customer_name": "Eveline Halim",
+          "customer_phone": "6281214148888",
+          "phone_mask": "6281****8888",
+          "paid_amount": 872000,
+          "closing_date": "2026-06-23",
+          "closing_kind": "bestie",
+          "closing_sig": "6df128417cec"
+        }
+      ],
+      "orders": [
+        {
+          "order_uuid": "5285e515-019a-479b-91e3-f3977c205201",
+          "merchant_order_id": "TNB-MQIVHR4Y-5285E515",
+          "customer_name": "Eveline",
+          "customer_phone": "6281214148888",
+          "phone_mask": "6281****8888",
+          "total_amount": 159000,
+          "payment_status": "unpaid",
+          "meta_purchase_status": "",
+          "product_slug": "tinybestie",
+          "product_name": "Tiny Bestie — Chibi Custom Tiny Bestie",
+          "created_at": "2026-06-18T02:20:39.027Z",
+          "updated_at": "2026-06-18T02:20:39.027Z"
+        },
+        {
+          "order_uuid": "d7df7aff-4ef4-4212-8be3-7a56a9827a87",
+          "merchant_order_id": "TNB-MQDM2C8S-D7DF7AFF",
+          "customer_name": "Eveline halim",
+          "customer_phone": "6281214148888",
+          "phone_mask": "6281****8888",
+          "total_amount": 832000,
+          "payment_status": "paid",
+          "meta_purchase_status": "",
+          "product_slug": "tinybestie",
+          "product_name": "Tiny Bestie — Chibi Custom Tiny Bestie",
+          "created_at": "2026-06-14T09:57:51.885Z",
+          "updated_at": "2026-06-22T22:38:15.290Z"
+        }
+      ]
+    },
+    {
+      "phone_mask": "6281****7635",
+      "phone": "628111777635",
+      "closing_count": 1,
+      "order_count": 2,
+      "unpaid_order_count": 2,
+      "paid_order_count": 0,
+      "reason": "duplicate_phone_or_order",
+      "closings": [
+        {
+          "customer_name": "Revi",
+          "customer_phone": "628111777635",
+          "phone_mask": "6281****7635",
+          "paid_amount": 199000,
+          "closing_date": "2026-06-29",
+          "closing_kind": "bestie",
+          "closing_sig": "b21a63db588a"
+        }
+      ],
+      "orders": [
+        {
+          "order_uuid": "343f5f34-fe00-4379-b5ba-ee37dd67069a",
+          "merchant_order_id": "TNB-MQVRZLY5-343F5F34",
+          "customer_name": "Revi",
+          "customer_phone": "628111777635",
+          "phone_mask": "6281****7635",
+          "total_amount": 159000,
+          "payment_status": "unpaid",
+          "meta_purchase_status": "",
+          "product_slug": "tinybestie",
+          "product_name": "Tiny Bestie — Chibi Custom Tiny Bestie",
+          "created_at": "2026-06-27T03:03:33.379Z",
+          "updated_at": "2026-06-27T03:03:33.379Z"
+        },
+        {
+          "order_uuid": "001bd40c-d974-435d-84f7-73be24f3f3fb",
+          "merchant_order_id": "TNB-MQVRYDZM-001BD40C",
+          "customer_name": "Revi",
+          "customer_phone": "628111777635",
+          "phone_mask": "6281****7635",
+          "total_amount": 159000,
+          "payment_status": "unpaid",
+          "meta_purchase_status": "",
+          "product_slug": "tinybestie",
+          "product_name": "Tiny Bestie — Chibi Custom Tiny Bestie",
+          "created_at": "2026-06-27T03:02:36.418Z",
+          "updated_at": "2026-06-27T03:02:36.418Z"
+        }
+      ]
+    }
+  ],
+  "history": []
 }
