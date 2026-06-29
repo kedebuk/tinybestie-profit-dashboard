@@ -1,10 +1,10 @@
 {
   "ok": false,
-  "generated_at": "2026-06-30T00:34:04.785133+07:00",
-  "error": "fetch_cs_lite_failed:2026-06-26:TimeoutError('The read operation timed out')",
+  "generated_at": "2026-06-30T00:40:05.238651+07:00",
+  "error": "fetch_cs_lite_failed:2026-06-08:<HTTPError 401: 'Unauthorized'>; fetch_cs_lite_failed:2026-06-24:<HTTPError 401: 'Unauthorized'>",
   "candidates": [],
   "ambiguous": [],
   "counts": {
-    "fetch_errors": 1
+    "fetch_errors": 2
   }
 }
