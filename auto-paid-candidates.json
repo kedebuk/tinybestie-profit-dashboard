@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "generated_at": "2026-06-29T11:01:09.389746+07:00",
+  "generated_at": "2026-06-29T11:07:10.285212+07:00",
   "privacy": "No raw phone numbers. CS Lite orders are matched locally; only masked phone + order id are published.",
   "counts": {
-    "closing_records_with_phone": 69,
-    "closing_unique_phones": 68,
-    "cs_lite_orders_read": 1729,
-    "unpaid_candidate_phones": 1549,
-    "safe_candidates": 9,
+    "closing_records_with_phone": 70,
+    "closing_unique_phones": 69,
+    "cs_lite_orders_read": 1731,
+    "unpaid_candidate_phones": 1551,
+    "safe_candidates": 10,
     "ambiguous": 0,
     "auto_paid_history": 0
   },
@@ -71,6 +71,16 @@
       "closing_date": "2026-06-29",
       "closing_kind": "bestie",
       "closing_sig": "6a7600616f58"
+    },
+    {
+      "order_uuid": "933692ec-a14f-460e-a3e4-55a0f00dd59a",
+      "merchant_order_id": "TNB-MQUSF7U9-933692EC",
+      "phone_mask": "6289****1738",
+      "paid_amount": 201000,
+      "order_total_current": 159000,
+      "closing_date": "2026-06-29",
+      "closing_kind": "bestie",
+      "closing_sig": "8ecd88f078d4"
     },
     {
       "order_uuid": "42065ef3-6a34-4664-87fb-9c6d71fd26bb",
