@@ -1,10 +1,10 @@
 {
   "ok": false,
-  "generated_at": "2026-06-30T00:27:04.650637+07:00",
-  "error": "fetch_cs_lite_failed:2026-06-10:TimeoutError('The read operation timed out'); fetch_cs_lite_failed:2026-06-12:TimeoutError('The read operation timed out'); fetch_cs_lite_failed:2026-06-20:TimeoutError('The read operation timed out')",
+  "generated_at": "2026-06-30T00:34:04.785133+07:00",
+  "error": "fetch_cs_lite_failed:2026-06-26:TimeoutError('The read operation timed out')",
   "candidates": [],
   "ambiguous": [],
   "counts": {
-    "fetch_errors": 3
+    "fetch_errors": 1
   }
 }
