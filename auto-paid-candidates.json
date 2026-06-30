@@ -1,12 +1,12 @@
 {
   "ok": true,
-  "generated_at": "2026-06-30T17:10:42.608846+07:00",
+  "generated_at": "2026-06-30T17:16:43.252339+07:00",
   "privacy": "Safe candidates stay masked. Ambiguous rows include full names/phones so CS can confirm the exact order in CS Lite.",
   "counts": {
     "closing_records_with_phone": 90,
     "closing_unique_phones": 89,
-    "cs_lite_orders_read": 1965,
-    "unpaid_candidate_phones": 1772,
+    "cs_lite_orders_read": 1966,
+    "unpaid_candidate_phones": 1773,
     "safe_candidates": 21,
     "ambiguous": 3,
     "auto_paid_history": 0
