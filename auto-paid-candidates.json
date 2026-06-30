@@ -1,12 +1,12 @@
 {
   "ok": true,
-  "generated_at": "2026-06-30T12:58:08.184277+07:00",
+  "generated_at": "2026-06-30T13:04:08.950443+07:00",
   "privacy": "Safe candidates stay masked. Ambiguous rows include full names/phones so CS can confirm the exact order in CS Lite.",
   "counts": {
     "closing_records_with_phone": 88,
     "closing_unique_phones": 87,
-    "cs_lite_orders_read": 1908,
-    "unpaid_candidate_phones": 1717,
+    "cs_lite_orders_read": 1909,
+    "unpaid_candidate_phones": 1718,
     "safe_candidates": 20,
     "ambiguous": 3,
     "auto_paid_history": 0
@@ -235,20 +235,6 @@
       ],
       "orders": [
         {
-          "order_uuid": "9db36847-e50b-43cf-8094-a181e928a3e1",
-          "merchant_order_id": "TNB-MQNF8BVB-9DB36847",
-          "customer_name": "WIDYA",
-          "customer_phone": "6281232067890",
-          "phone_mask": "6281****7890",
-          "total_amount": 174000,
-          "payment_status": "paid",
-          "meta_purchase_status": "",
-          "product_slug": "tinybestie",
-          "product_name": "Tiny Bestie — Chibi Custom Tiny Bestie",
-          "created_at": "2026-06-21T06:44:15.905Z",
-          "updated_at": "2026-06-21T11:46:43.567Z"
-        },
-        {
           "order_uuid": "45339a69-fbbb-430d-b609-89a2cf55631d",
           "merchant_order_id": "TNB-MQKLKSMO-45339A69",
           "customer_name": "Widya",
@@ -261,6 +247,20 @@
           "product_name": "Tiny Bestie — Chibi Custom Tiny Bestie",
           "created_at": "2026-06-19T07:18:36.554Z",
           "updated_at": "2026-06-29T06:16:42.641Z"
+        },
+        {
+          "order_uuid": "9db36847-e50b-43cf-8094-a181e928a3e1",
+          "merchant_order_id": "TNB-MQNF8BVB-9DB36847",
+          "customer_name": "WIDYA",
+          "customer_phone": "6281232067890",
+          "phone_mask": "6281****7890",
+          "total_amount": 174000,
+          "payment_status": "paid",
+          "meta_purchase_status": "",
+          "product_slug": "tinybestie",
+          "product_name": "Tiny Bestie — Chibi Custom Tiny Bestie",
+          "created_at": "2026-06-21T06:44:15.905Z",
+          "updated_at": "2026-06-21T11:46:43.567Z"
         }
       ]
     },
