@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "generated_at": "2026-06-30T09:10:28.758805+07:00",
+  "generated_at": "2026-06-30T09:16:29.744162+07:00",
   "privacy": "Safe candidates stay masked. Ambiguous rows include full names/phones so CS can confirm the exact order in CS Lite.",
   "counts": {
-    "closing_records_with_phone": 80,
-    "closing_unique_phones": 79,
+    "closing_records_with_phone": 81,
+    "closing_unique_phones": 80,
     "cs_lite_orders_read": 1833,
     "unpaid_candidate_phones": 1646,
-    "safe_candidates": 14,
+    "safe_candidates": 15,
     "ambiguous": 3,
     "auto_paid_history": 0
   },
@@ -131,6 +131,16 @@
       "closing_date": "2026-06-29",
       "closing_kind": "bestie",
       "closing_sig": "087c3879656e"
+    },
+    {
+      "order_uuid": "6e3a7c2e-930f-5b97-b628-b030c47d9818",
+      "merchant_order_id": "SCV-TB-019F0E91FBA073C3BC",
+      "phone_mask": "6285****4617",
+      "paid_amount": 214000,
+      "order_total_current": 50000,
+      "closing_date": "2026-06-30",
+      "closing_kind": "bestie",
+      "closing_sig": "32d5eedfc4d1"
     },
     {
       "order_uuid": "351fed95-6e2c-4375-991e-b145213776c7",
