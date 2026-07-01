@@ -1,14 +1,14 @@
 {
   "ok": true,
-  "generated_at": "2026-07-01T13:24:28.188024+07:00",
+  "generated_at": "2026-07-01T13:30:29.615399+07:00",
   "privacy": "Safe candidates stay masked. Ambiguous rows include full names/phones so CS can confirm the exact order in CS Lite.",
   "counts": {
-    "closing_records_with_phone": 101,
-    "closing_unique_phones": 100,
-    "cs_lite_orders_read": 2106,
-    "unpaid_candidate_phones": 1887,
+    "closing_records_with_phone": 102,
+    "closing_unique_phones": 101,
+    "cs_lite_orders_read": 2109,
+    "unpaid_candidate_phones": 1889,
     "safe_candidates": 6,
-    "ambiguous": 3,
+    "ambiguous": 4,
     "auto_paid_history": 20
   },
   "candidates": [
@@ -145,20 +145,6 @@
       ],
       "orders": [
         {
-          "order_uuid": "5285e515-019a-479b-91e3-f3977c205201",
-          "merchant_order_id": "TNB-MQIVHR4Y-5285E515",
-          "customer_name": "Eveline",
-          "customer_phone": "6281214148888",
-          "phone_mask": "6281****8888",
-          "total_amount": 159000,
-          "payment_status": "unpaid",
-          "meta_purchase_status": "",
-          "product_slug": "tinybestie",
-          "product_name": "Tiny Bestie — Chibi Custom Tiny Bestie",
-          "created_at": "2026-06-18T02:20:39.027Z",
-          "updated_at": "2026-06-18T02:20:39.027Z"
-        },
-        {
           "order_uuid": "d7df7aff-4ef4-4212-8be3-7a56a9827a87",
           "merchant_order_id": "TNB-MQDM2C8S-D7DF7AFF",
           "customer_name": "Eveline halim",
@@ -171,6 +157,20 @@
           "product_name": "Tiny Bestie — Chibi Custom Tiny Bestie",
           "created_at": "2026-06-14T09:57:51.885Z",
           "updated_at": "2026-06-22T22:38:15.290Z"
+        },
+        {
+          "order_uuid": "5285e515-019a-479b-91e3-f3977c205201",
+          "merchant_order_id": "TNB-MQIVHR4Y-5285E515",
+          "customer_name": "Eveline",
+          "customer_phone": "6281214148888",
+          "phone_mask": "6281****8888",
+          "total_amount": 159000,
+          "payment_status": "unpaid",
+          "meta_purchase_status": "",
+          "product_slug": "tinybestie",
+          "product_name": "Tiny Bestie — Chibi Custom Tiny Bestie",
+          "created_at": "2026-06-18T02:20:39.027Z",
+          "updated_at": "2026-06-18T02:20:39.027Z"
         }
       ]
     },
@@ -221,6 +221,56 @@
           "product_name": "Tiny Bestie — Chibi Custom Tiny Bestie",
           "created_at": "2026-06-27T03:02:36.418Z",
           "updated_at": "2026-06-27T03:02:36.418Z"
+        }
+      ]
+    },
+    {
+      "phone_mask": "6282****9005",
+      "phone": "6282276009005",
+      "closing_count": 1,
+      "order_count": 2,
+      "unpaid_order_count": 2,
+      "paid_order_count": 0,
+      "reason": "duplicate_phone_or_order",
+      "closings": [
+        {
+          "customer_name": "Yuliwaty J",
+          "customer_phone": "6282276009005",
+          "phone_mask": "6282****9005",
+          "paid_amount": 209000,
+          "closing_date": "2026-07-01",
+          "closing_kind": "statue",
+          "closing_sig": "f9292a5e7c56"
+        }
+      ],
+      "orders": [
+        {
+          "order_uuid": "7a7f9915-971b-480c-b06f-1f8c89937517",
+          "merchant_order_id": "TNB-MR06XS42-7A7F9915",
+          "customer_name": "Yuliwaty",
+          "customer_phone": "6282276009005",
+          "phone_mask": "6282****9005",
+          "total_amount": 159000,
+          "payment_status": "unpaid",
+          "meta_purchase_status": "",
+          "product_slug": "tinybestie-statue",
+          "product_name": "Tiny Bestie — Statue Custom 15cm",
+          "created_at": "2026-06-30T05:13:07.020Z",
+          "updated_at": "2026-06-30T05:13:07.020Z"
+        },
+        {
+          "order_uuid": "de9f0b2f-1f82-4e16-806e-e9830fd43ca4",
+          "merchant_order_id": "TNB-MR06QRI7-DE9F0B2F",
+          "customer_name": "Yuliwaty",
+          "customer_phone": "6282276009005",
+          "phone_mask": "6282****9005",
+          "total_amount": 159000,
+          "payment_status": "unpaid",
+          "meta_purchase_status": "",
+          "product_slug": "tinybestie",
+          "product_name": "Tiny Bestie — Chibi Custom Tiny Bestie",
+          "created_at": "2026-06-30T05:07:39.627Z",
+          "updated_at": "2026-06-30T05:07:39.627Z"
         }
       ]
     }
