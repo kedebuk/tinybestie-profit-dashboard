@@ -1,148 +1,17 @@
 {
   "ok": true,
-  "generated_at": "2026-07-02T07:56:37.381367+07:00",
+  "generated_at": "2026-07-02T08:02:37.968823+07:00",
   "privacy": "Safe candidates stay masked. Ambiguous rows include full names/phones so CS can confirm the exact order in CS Lite.",
   "counts": {
     "closing_records_with_phone": 112,
     "closing_unique_phones": 110,
     "cs_lite_orders_read": 2204,
-    "unpaid_candidate_phones": 1977,
-    "safe_candidates": 13,
+    "unpaid_candidate_phones": 1964,
+    "safe_candidates": 0,
     "ambiguous": 4,
-    "auto_paid_history": 20
+    "auto_paid_history": 33
   },
-  "candidates": [
-    {
-      "order_uuid": "8ece1822-d70b-4d04-b72a-d63a4012de24",
-      "merchant_order_id": "TNB-MQUACILD-8ECE1822",
-      "phone_mask": "6281****9595",
-      "paid_amount": 204000,
-      "order_total_current": 159000,
-      "closing_date": "2026-07-01",
-      "closing_kind": "bestie",
-      "closing_sig": "cf804b2fbb56"
-    },
-    {
-      "order_uuid": "032c6daa-f167-4dd2-ad18-d8c2a7eb32e2",
-      "merchant_order_id": "TNB-MQUOR48G-032C6DAA",
-      "phone_mask": "6285****2682",
-      "paid_amount": 319000,
-      "order_total_current": 159000,
-      "closing_date": "2026-07-01",
-      "closing_kind": "bestie",
-      "closing_sig": "7d7d98f7afa4"
-    },
-    {
-      "order_uuid": "c0059dac-bb9f-4387-bad5-2da3dc32410c",
-      "merchant_order_id": "TNB-MQVQS0AV-C0059DAC",
-      "phone_mask": "6281****4919",
-      "paid_amount": 229000,
-      "order_total_current": 159000,
-      "closing_date": "2026-07-01",
-      "closing_kind": "bestie",
-      "closing_sig": "cba3f69ce17b"
-    },
-    {
-      "order_uuid": "c47d2eb0-3557-485b-841d-2c67021f560b",
-      "merchant_order_id": "TNB-MQZ5H6A5-C47D2EB0",
-      "phone_mask": "6281****1942",
-      "paid_amount": 543000,
-      "order_total_current": 159000,
-      "closing_date": "2026-07-01",
-      "closing_kind": "bestie",
-      "closing_sig": "843532f3132d"
-    },
-    {
-      "order_uuid": "0cd2bc2f-8372-4304-a769-d4cf88ec5f74",
-      "merchant_order_id": "TNB-MQZVVP7D-0CD2BC2F",
-      "phone_mask": "6282****9814",
-      "paid_amount": 341000,
-      "order_total_current": 159000,
-      "closing_date": "2026-07-01",
-      "closing_kind": "bestie",
-      "closing_sig": "0b2aa3993730"
-    },
-    {
-      "order_uuid": "4508c3f3-d635-4c78-a8f9-f81052c65f0c",
-      "merchant_order_id": "TNB-MR03KMBO-4508C3F3",
-      "phone_mask": "6287****6932",
-      "paid_amount": 200000,
-      "order_total_current": 159000,
-      "closing_date": "2026-07-01",
-      "closing_kind": "bestie",
-      "closing_sig": "f79494aab9f6"
-    },
-    {
-      "order_uuid": "99629266-b636-44a4-a852-030e8033ad21",
-      "merchant_order_id": "TNB-MR04A6L3-99629266",
-      "phone_mask": "6282****6669",
-      "paid_amount": 289000,
-      "order_total_current": 159000,
-      "closing_date": "2026-07-01",
-      "closing_kind": "bestie",
-      "closing_sig": "8150869fde03"
-    },
-    {
-      "order_uuid": "8da53c64-d503-4a89-85fb-7b587c0fae90",
-      "merchant_order_id": "TNB-MR0E57EA-8DA53C64",
-      "phone_mask": "6287****1708",
-      "paid_amount": 289000,
-      "order_total_current": 159000,
-      "closing_date": "2026-07-01",
-      "closing_kind": "bestie",
-      "closing_sig": "1e31eb481ef9"
-    },
-    {
-      "order_uuid": "89a8b830-e038-4815-a873-67c27f2a8adc",
-      "merchant_order_id": "TNB-MR0JOLVY-89A8B830",
-      "phone_mask": "6281****5863",
-      "paid_amount": 229000,
-      "order_total_current": 159000,
-      "closing_date": "2026-07-01",
-      "closing_kind": "bestie",
-      "closing_sig": "d1da7bee0c23"
-    },
-    {
-      "order_uuid": "5dc6f08a-19b9-4fff-a0e3-33a002457817",
-      "merchant_order_id": "TNB-MR0LZ76Z-5DC6F08A",
-      "phone_mask": "6282****2205",
-      "paid_amount": 362000,
-      "order_total_current": 159000,
-      "closing_date": "2026-07-01",
-      "closing_kind": "bestie",
-      "closing_sig": "4cbfb6b26481"
-    },
-    {
-      "order_uuid": "b43d9529-6fd5-4ad2-9c23-e0dcb7171964",
-      "merchant_order_id": "TNB-MR1DGZFF-B43D9529",
-      "phone_mask": "6287****5224",
-      "paid_amount": 229000,
-      "order_total_current": 159000,
-      "closing_date": "2026-07-01",
-      "closing_kind": "bestie",
-      "closing_sig": "53cec7fae514"
-    },
-    {
-      "order_uuid": "5e8bbed7-8052-4ebf-947f-3ca303aaf67d",
-      "merchant_order_id": "TNB-MR1E5BKC-5E8BBED7",
-      "phone_mask": "6281****8121",
-      "paid_amount": 259000,
-      "order_total_current": 159000,
-      "closing_date": "2026-07-01",
-      "closing_kind": "statue",
-      "closing_sig": "f63500086257"
-    },
-    {
-      "order_uuid": "ae9f75bd-2467-4d15-afe1-7b4d5b19bf0a",
-      "merchant_order_id": "TNB-MQWDG8GC-AE9F75BD",
-      "phone_mask": "6289****5276",
-      "paid_amount": 294000,
-      "order_total_current": 159000,
-      "closing_date": "2026-07-02",
-      "closing_kind": "bestie",
-      "closing_sig": "879713eb9fc9"
-    }
-  ],
+  "candidates": [],
   "ambiguous": [
     {
       "phone_mask": "6281****7890",
@@ -165,20 +34,6 @@
       ],
       "orders": [
         {
-          "order_uuid": "45339a69-fbbb-430d-b609-89a2cf55631d",
-          "merchant_order_id": "TNB-MQKLKSMO-45339A69",
-          "customer_name": "Widya",
-          "customer_phone": "6281232067890",
-          "phone_mask": "6281****7890",
-          "total_amount": 159000,
-          "payment_status": "unpaid",
-          "meta_purchase_status": "",
-          "product_slug": "tinybestie",
-          "product_name": "Tiny Bestie — Chibi Custom Tiny Bestie",
-          "created_at": "2026-06-19T07:18:36.554Z",
-          "updated_at": "2026-06-29T06:16:42.641Z"
-        },
-        {
           "order_uuid": "9db36847-e50b-43cf-8094-a181e928a3e1",
           "merchant_order_id": "TNB-MQNF8BVB-9DB36847",
           "customer_name": "WIDYA",
@@ -191,6 +46,20 @@
           "product_name": "Tiny Bestie — Chibi Custom Tiny Bestie",
           "created_at": "2026-06-21T06:44:15.905Z",
           "updated_at": "2026-06-21T11:46:43.567Z"
+        },
+        {
+          "order_uuid": "45339a69-fbbb-430d-b609-89a2cf55631d",
+          "merchant_order_id": "TNB-MQKLKSMO-45339A69",
+          "customer_name": "Widya",
+          "customer_phone": "6281232067890",
+          "phone_mask": "6281****7890",
+          "total_amount": 159000,
+          "payment_status": "unpaid",
+          "meta_purchase_status": "",
+          "product_slug": "tinybestie",
+          "product_name": "Tiny Bestie — Chibi Custom Tiny Bestie",
+          "created_at": "2026-06-19T07:18:36.554Z",
+          "updated_at": "2026-06-29T06:16:42.641Z"
         }
       ]
     },
@@ -355,6 +224,110 @@
     }
   ],
   "history": [
+    {
+      "order_uuid": "ae9f75bd-2467-4d15-afe1-7b4d5b19bf0a",
+      "merchant_order_id": "TNB-MQWDG8GC-AE9F75BD",
+      "phone_mask": "6289****5276",
+      "paid_amount": 294000,
+      "manual_paid_at": "2026-07-02T00:57:35.873Z",
+      "meta_purchase_status": ""
+    },
+    {
+      "order_uuid": "5e8bbed7-8052-4ebf-947f-3ca303aaf67d",
+      "merchant_order_id": "TNB-MR1E5BKC-5E8BBED7",
+      "phone_mask": "6281****8121",
+      "paid_amount": 259000,
+      "manual_paid_at": "2026-07-02T00:57:35.255Z",
+      "meta_purchase_status": ""
+    },
+    {
+      "order_uuid": "b43d9529-6fd5-4ad2-9c23-e0dcb7171964",
+      "merchant_order_id": "TNB-MR1DGZFF-B43D9529",
+      "phone_mask": "6287****5224",
+      "paid_amount": 229000,
+      "manual_paid_at": "2026-07-02T00:57:34.756Z",
+      "meta_purchase_status": ""
+    },
+    {
+      "order_uuid": "5dc6f08a-19b9-4fff-a0e3-33a002457817",
+      "merchant_order_id": "TNB-MR0LZ76Z-5DC6F08A",
+      "phone_mask": "6282****2205",
+      "paid_amount": 362000,
+      "manual_paid_at": "2026-07-02T00:57:34.133Z",
+      "meta_purchase_status": ""
+    },
+    {
+      "order_uuid": "89a8b830-e038-4815-a873-67c27f2a8adc",
+      "merchant_order_id": "TNB-MR0JOLVY-89A8B830",
+      "phone_mask": "6281****5863",
+      "paid_amount": 229000,
+      "manual_paid_at": "2026-07-02T00:57:33.611Z",
+      "meta_purchase_status": ""
+    },
+    {
+      "order_uuid": "8da53c64-d503-4a89-85fb-7b587c0fae90",
+      "merchant_order_id": "TNB-MR0E57EA-8DA53C64",
+      "phone_mask": "6287****1708",
+      "paid_amount": 289000,
+      "manual_paid_at": "2026-07-02T00:57:33.205Z",
+      "meta_purchase_status": ""
+    },
+    {
+      "order_uuid": "99629266-b636-44a4-a852-030e8033ad21",
+      "merchant_order_id": "TNB-MR04A6L3-99629266",
+      "phone_mask": "6282****6669",
+      "paid_amount": 289000,
+      "manual_paid_at": "2026-07-02T00:57:32.795Z",
+      "meta_purchase_status": ""
+    },
+    {
+      "order_uuid": "4508c3f3-d635-4c78-a8f9-f81052c65f0c",
+      "merchant_order_id": "TNB-MR03KMBO-4508C3F3",
+      "phone_mask": "6287****6932",
+      "paid_amount": 200000,
+      "manual_paid_at": "2026-07-02T00:57:32.112Z",
+      "meta_purchase_status": ""
+    },
+    {
+      "order_uuid": "0cd2bc2f-8372-4304-a769-d4cf88ec5f74",
+      "merchant_order_id": "TNB-MQZVVP7D-0CD2BC2F",
+      "phone_mask": "6282****9814",
+      "paid_amount": 341000,
+      "manual_paid_at": "2026-07-02T00:57:31.428Z",
+      "meta_purchase_status": ""
+    },
+    {
+      "order_uuid": "c47d2eb0-3557-485b-841d-2c67021f560b",
+      "merchant_order_id": "TNB-MQZ5H6A5-C47D2EB0",
+      "phone_mask": "6281****1942",
+      "paid_amount": 543000,
+      "manual_paid_at": "2026-07-02T00:57:31.012Z",
+      "meta_purchase_status": ""
+    },
+    {
+      "order_uuid": "c0059dac-bb9f-4387-bad5-2da3dc32410c",
+      "merchant_order_id": "TNB-MQVQS0AV-C0059DAC",
+      "phone_mask": "6281****4919",
+      "paid_amount": 229000,
+      "manual_paid_at": "2026-07-02T00:57:30.611Z",
+      "meta_purchase_status": ""
+    },
+    {
+      "order_uuid": "032c6daa-f167-4dd2-ad18-d8c2a7eb32e2",
+      "merchant_order_id": "TNB-MQUOR48G-032C6DAA",
+      "phone_mask": "6285****2682",
+      "paid_amount": 319000,
+      "manual_paid_at": "2026-07-02T00:57:30.156Z",
+      "meta_purchase_status": ""
+    },
+    {
+      "order_uuid": "8ece1822-d70b-4d04-b72a-d63a4012de24",
+      "merchant_order_id": "TNB-MQUACILD-8ECE1822",
+      "phone_mask": "6281****9595",
+      "paid_amount": 204000,
+      "manual_paid_at": "2026-07-02T00:57:29.648Z",
+      "meta_purchase_status": ""
+    },
     {
       "order_uuid": "2ebdab3a-bbdf-4cd7-90c6-af40db4377d3",
       "merchant_order_id": "TNB-MQYVCO5K-2EBDAB3A",
