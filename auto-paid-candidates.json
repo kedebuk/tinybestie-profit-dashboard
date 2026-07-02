@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "generated_at": "2026-07-02T13:37:32.418976+07:00",
+  "generated_at": "2026-07-02T13:43:33.115770+07:00",
   "privacy": "Safe candidates stay masked. Ambiguous rows include full names/phones so CS can confirm the exact order in CS Lite.",
   "counts": {
-    "closing_records_with_phone": 115,
-    "closing_unique_phones": 113,
-    "cs_lite_orders_read": 2368,
-    "unpaid_candidate_phones": 2124,
-    "safe_candidates": 2,
+    "closing_records_with_phone": 117,
+    "closing_unique_phones": 115,
+    "cs_lite_orders_read": 2369,
+    "unpaid_candidate_phones": 2125,
+    "safe_candidates": 4,
     "ambiguous": 4,
     "auto_paid_history": 33
   },
@@ -31,6 +31,26 @@
       "closing_date": "2026-07-02",
       "closing_kind": "bestie",
       "closing_sig": "97535ced957a"
+    },
+    {
+      "order_uuid": "d293d8a5-4327-4954-928d-2ea9021fc1b5",
+      "merchant_order_id": "TNB-MR1T9IJN-D293D8A5",
+      "phone_mask": "6289****2376",
+      "paid_amount": 274000,
+      "order_total_current": 159000,
+      "closing_date": "2026-07-02",
+      "closing_kind": "statue",
+      "closing_sig": "ca6b8b1dc1cc"
+    },
+    {
+      "order_uuid": "a2e568cd-6815-4188-950a-802f5c70e8a2",
+      "merchant_order_id": "TNB-MR1WOP69-A2E568CD",
+      "phone_mask": "6281****2289",
+      "paid_amount": 229000,
+      "order_total_current": 159000,
+      "closing_date": "2026-07-02",
+      "closing_kind": "bestie",
+      "closing_sig": "e0c0e5f41d4c"
     }
   ],
   "ambiguous": [
